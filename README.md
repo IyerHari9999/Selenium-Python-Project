@@ -13,4 +13,4 @@ Note:
  
 (4)Ensure that the chromedriver is in approapriate path
 
-(5)Ensure to download all the required files before running the .py program
+(5)Ensure to download all the required files before running the .py program and make sure to unzip the "assets.zip"
